@@ -112,6 +112,8 @@ client_socket.close()
 ## OUTPUT
 <img width="1678" height="189" alt="Screenshot 2026-04-29 110525" src="https://github.com/user-attachments/assets/fb269e5e-25f9-4af0-b17a-7b8e48077e77" />
 
+
+
 <img width="1837" height="145" alt="Screenshot 2026-04-29 110445" src="https://github.com/user-attachments/assets/3cfb23bb-9b3d-45f1-9d98-67cd27b5afa6" />
 
 ## Result:
